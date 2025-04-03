@@ -1,0 +1,31 @@
+.sitetitle {
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    width: 100px;
+}
+
+header {
+    display: flex;
+}
+
+.activities {
+    display: flex;
+}
+
+embed {
+    width: 760px;
+    height: 400px;
+    align-self: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+}
