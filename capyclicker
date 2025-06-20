@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MathsZone</title>
+    <link rel="icon" type="image/x-icon" href="https://i.ibb.co/VYXvX6SN/M-th.png">
+</head>
+<body>
+    <header>
+        <a href="index.html"><img class="logo" src="https://i.ibb.co/VYXvX6SN/M-th.png" alt="MathsZone logo"></a>
+        <h1 class="sitetitle">MathsZone</h1>
+    </header>
+    <div class="activity">
+        <center><embed src="https://capybara-game.com"></center>
+    </div>
+</body>
+</html>
